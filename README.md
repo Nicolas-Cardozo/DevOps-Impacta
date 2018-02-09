@@ -1,3 +1,3 @@
 # DevOps-Impacta
-# Função: aluno
-# Faculdade: Impacta
+# Função: Aluno
+# Faculdade: Impacta de Técnologia
